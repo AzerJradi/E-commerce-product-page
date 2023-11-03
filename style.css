@@ -1,0 +1,214 @@
+body{
+    background-color: white;
+}
+.navbar{
+    height: 100px;
+    margin:30px 5%;
+    border-bottom: 2px solid grey;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    font-size: 28px;
+    justify-content: space-between;
+}
+.sneakers{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    letter-spacing: 1px;
+    color: black;
+    position: relative;
+    top: 20px;
+}
+.Collections{
+    position: relative;
+    left: 180px;
+    bottom: 10px;
+}
+.Men{
+    position: relative;
+    left: 350px;
+    bottom: 42px;
+}
+.Women{
+    position: relative;
+    left: 440px;
+    bottom: 73px;
+}
+.About{
+    position: relative;
+    left: 570px;
+    bottom: 106px;
+}
+.COntact{
+    position: relative;
+    left: 680px;
+    bottom: 137px;
+}
+.Cart{
+    position: relative;
+    left: 1160px;
+    bottom: 190px;
+}
+.PDP{
+    position: relative;
+    left: 1200px;
+    bottom: 200px;
+}
+.images{
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+.images img{
+    border-radius: 18px;
+}
+.first{
+    width: 450px;
+    height: 500px;
+}
+.second{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 10px;
+    margin-left: 10px;
+}
+.third{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 10px;
+    margin-left: 10px;
+}
+.fourth{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 10px;
+    margin-left: 10px;
+}
+.fifth{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 10px;
+    margin-left: 10px;
+}
+.div{
+    position: relative;
+    top: 10px;
+}
+.titre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: orange;
+    position: relative;
+    left: 750px;
+    bottom: 550px;
+    letter-spacing: 1px;
+}
+.title{
+    font-size: 36px;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 750px;
+    bottom: 560px;
+}
+.description{
+    color: gray;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    position: relative;
+    left: 750px;
+    bottom: 550px;
+    line-height: 1.5;
+}
+.price{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 750px;
+    bottom: 550px;
+}
+.solde{
+    background-color: #ffebbb;
+    border-radius: 8px;
+    width: 60px;
+    padding-left: 5px;
+    font-size: 20px;
+    color: orange;
+    position: relative;
+    left: 880px;
+    bottom: 610px;
+}
+.lastPrice{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:line-through;
+    font-size: 20px;
+    position: relative;
+    left: 750px;
+    bottom: 610px;
+}
+.button{
+    width: 230px;
+    border: none;
+    border-radius: 16px;
+    background-color: orange;
+    color: white;
+    position: relative;
+    left: 1100px;
+    bottom:650px;
+}
+.cart{
+    position: relative;
+    right: 50px;
+    top: 27px;
+}
+.add{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+.quant{
+    background-color: #e3e3e3;
+    width: 200px;
+    border: none;
+    border-radius: 12px;
+    position: relative;
+    left: 750px;
+    bottom: 580px;
+}
+.zero{
+    font-size: 20px;
+    position: relative;
+    left: 50%;
+    top: 23px;
+}
+.plus{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: 70%;
+    bottom: 8px;
+}
+.minus{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    bottom: 8px;
+    bottom: 10px;
+}
+.attribution{
+    position: relative;
+    bottom: 500px;
+    left: 500px;
+}
